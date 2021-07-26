@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="13" passed="12">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="6532" started-at="2021-07-24T13:26:44Z" finished-at="2021-07-24T13:26:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="6532" started-at="2021-07-24T13:26:44Z" finished-at="2021-07-24T13:26:51Z">
+      <class name="org.testngadact.SampleTestNg">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="beforeClass" is-config="true" duration-ms="4126" started-at="2021-07-24T13:26:44Z" finished-at="2021-07-24T13:26:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="tc0(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc0" duration-ms="163" started-at="2021-07-24T13:26:48Z" finished-at="2021-07-24T13:26:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[selvammalai]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc0 -->
+        <test-method status="PASS" signature="tc01(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc01" duration-ms="95" started-at="2021-07-24T13:26:48Z" finished-at="2021-07-24T13:26:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[AdactinTest123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc01 -->
+        <test-method status="PASS" signature="tc02()[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc02" duration-ms="573" started-at="2021-07-24T13:26:48Z" finished-at="2021-07-24T13:26:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc02 -->
+        <test-method status="PASS" signature="tc03(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc03" duration-ms="188" started-at="2021-07-24T13:26:49Z" finished-at="2021-07-24T13:26:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Paris]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc03 -->
+        <test-method status="PASS" signature="tc04(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc04" duration-ms="134" started-at="2021-07-24T13:26:49Z" finished-at="2021-07-24T13:26:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Hotel Hervey]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc04 -->
+        <test-method status="PASS" signature="tc05(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc05" duration-ms="136" started-at="2021-07-24T13:26:49Z" finished-at="2021-07-24T13:26:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Double]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc05 -->
+        <test-method status="PASS" signature="tc06(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc06" duration-ms="139" started-at="2021-07-24T13:26:49Z" finished-at="2021-07-24T13:26:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc06 -->
+        <test-method status="PASS" signature="tc07(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc07" duration-ms="123" started-at="2021-07-24T13:26:50Z" finished-at="2021-07-24T13:26:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[14/07/2021]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc07 -->
+        <test-method status="PASS" signature="tc08(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc08" duration-ms="131" started-at="2021-07-24T13:26:50Z" finished-at="2021-07-24T13:26:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[24/07/2021]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc08 -->
+        <test-method status="PASS" signature="tc09(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc09" duration-ms="146" started-at="2021-07-24T13:26:50Z" finished-at="2021-07-24T13:26:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc09 -->
+        <test-method status="PASS" signature="tc10(java.lang.String)[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc10" duration-ms="134" started-at="2021-07-24T13:26:50Z" finished-at="2021-07-24T13:26:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc10 -->
+        <test-method status="PASS" signature="tc11()[pri:0, instance:org.testngadact.SampleTestNg@204f30ec]" name="tc11" duration-ms="389" started-at="2021-07-24T13:26:50Z" finished-at="2021-07-24T13:26:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc11 -->
+      </class> <!-- org.testngadact.SampleTestNg -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

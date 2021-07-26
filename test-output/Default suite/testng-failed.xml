@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="org.testngadact.SampleTestNg">
+        <methods>
+          <include name="tc0"/>
+          <include name="tc3" invocation-numbers="0"/>
+          <include name="tc10" invocation-numbers="0"/>
+          <include name="tc6" invocation-numbers="0"/>
+          <include name="beforeClass"/>
+          <include name="tc1"/>
+          <include name="tc4" invocation-numbers="0"/>
+          <include name="tc7"/>
+          <include name="tc11"/>
+          <include name="tc5" invocation-numbers="0"/>
+          <include name="tc8"/>
+          <include name="tc9" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- org.testngadact.SampleTestNg -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+  <parameter name="username" value="selvammalai"/>
+  <parameter name="password" value="AdactinTest123"/>
+  <parameter name="location" value="Paris"/>
+  <parameter name="hotel" value="Hotel Hervey"/>
+  <parameter name="room type" value="Double"/>
+  <parameter name="NoOfRooms" value="2"/>
+  <parameter name="checkin" value="14/07/2021"/>
+  <parameter name="checkout" value="24/07/2021"/>
+  <parameter name="adults" value="2"/>
+  <parameter name="children" value="2"/>
+  <classes>
+  <class name="org.testngadact.SampleTestNg"/>
+  
+  </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
